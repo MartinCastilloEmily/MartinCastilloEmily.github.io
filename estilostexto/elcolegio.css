@@ -1,0 +1,55 @@
+
+#p1{
+    float: right;
+    text-align: left;
+    display: inline-block;
+}
+#imagencolegio1{
+    display: inline-block;
+    float:left;
+}
+#p2{
+    float: right;
+    text-align: center;
+    display: inline-block;
+}
+#imagencolegio2{
+    display: inline-block;
+    float:right;
+}
+#titulo1{
+   display: inline-block;
+    width: 60%;
+    color: cadetblue;
+    text-align:left;
+    font-size: 60px;
+    font-family:cursive;
+    text-align: center;
+}
+#h1{
+    display: inline-block;
+    width: 60%;
+    color: cadetblue;
+    text-align:left;
+    font-size: 45px;
+
+}
+#h2{
+    display: inline-block;
+    width: 60%;
+    color: cadetblue;
+    text-align:left;
+    font-size: 45px;
+}
+#h3{
+    display: inline-block;
+    width: 60%;
+    color: cadetblue;
+    text-align:center;
+    font-size: 45px;
+}
+#textoinfo{
+    text-align: center;
+    color:beige;
+    font-size: 40px;
+}
